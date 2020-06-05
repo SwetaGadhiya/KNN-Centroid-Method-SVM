@@ -21,7 +21,7 @@ def loadDataset(filename):
     return dataset
 
 
-# In the subpartone i.e, project 2 task A,Conflict
+# In the subpartone i.e, project 2 task a
 # we have to write a sub routine which computes the distance between two data instances based on their category (numerical or categorical so called string type data.)
 def distance(training_instance, test_instance):
     # findDistanceBetweenTwoInstances
